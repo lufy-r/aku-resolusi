@@ -1,5 +1,7 @@
 RENCANA KONTEN
 
 - JAVASCRIPT
+  - ES6
+  - Framework
 - FRAMEWORK
 - INTERIVEW
