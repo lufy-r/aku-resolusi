@@ -1,0 +1,2 @@
+# aku-resolusi
+untuk rencanaku
