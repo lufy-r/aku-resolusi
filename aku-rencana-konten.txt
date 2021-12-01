@@ -3,5 +3,6 @@ RENCANA KONTEN
 - JAVASCRIPT
   - ES6
   - Framework
+- Struktur Data Dasar
 - FRAMEWORK
 - INTERIVEW
